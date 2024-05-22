@@ -11,7 +11,7 @@
 |W01|introduction, course admins|||
 |W02|[NLP basics, brief history and linguistics](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/BJOwdO43T/https%3A%2F%2Fhackmd.io%2F%40895n2PoiTf6zr08FjTMQ_Q%2FrJAsDON26)|||
 |W03|[ML-NLP (symbolic, statistic); logic /rule-based and probabilistic approaches; distributional semantics](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/BJOwdO43T/https%3A%2F%2Fhackmd.io%2F%40895n2PoiTf6zr08FjTMQ_Q%2Fryiw1bwp6)|[加分作業](https://github.com/sleeping-psystudent/2024-Spring-Linguistic-Theories-in-Computational-Linguistics/tree/main/%E5%8A%A0%E5%88%86%E4%BD%9C%E6%A5%AD%EF%BC%9A%20bigram)||
-|W04|ML-NLP (neural; deep learning); distributed semantics|[作業一](https://github.com/sleeping-psystudent/2024-Spring-Linguistic-Theories-in-Computational-Linguistics/tree/main/%E4%BD%9C%E6%A5%AD%E4%B8%80%EF%BC%9A%E4%B8%AD%E6%96%87%E8%A9%9E%E6%84%8F%E8%87%AA%E5%8B%95%E6%A8%99%E8%A8%98%E6%87%89%E7%94%A8)||
+|W04|ML-NLP (neural; deep learning); distributed semantics|[作業一](https://github.com/sleeping-psystudent/2024-Spring-Linguistic-Theories-in-Computational-Linguistics/tree/main/%E4%BD%9C%E6%A5%AD%E4%B8%80%EF%BC%9A%E4%B8%AD%E6%96%87%E8%A9%9E%E6%84%8F%E8%87%AA%E5%8B%95%E6%A8%99%E8%A8%98%E6%87%89%E7%94%A8)|110, 每一題都寫得很詳細清晰！很棒💖|
 |W05|Transformer|||
 |W06|LLM and prompting; Pragmatics and Discourse|||
 |W07|canceled|||
@@ -19,7 +19,7 @@
 |W09|RAG and VectorDB/embeddings|||
 |W10|LLM fine-tune and (domain) knowledge injection|||
 |W11|LLM fine-tune and (domain) knowledge injection|||
-|W12|Autogen+Langchain+function call|||
+|W12|Autogen+Langchain+function call|[作業二](https://github.com/sleeping-psystudent/2024-Spring-Linguistic-Theories-in-Computational-Linguistics/tree/main/%E4%BD%9C%E6%A5%AD%E4%BA%8C%EF%BC%9ALangChain)|120, 你的LLM是第一個相信外星人存在月亮的模型，好有趣XD 程式邏輯和結構都很不錯！！ 解題思路很清晰，一百分滿分的120💡 |
 |W13|Multimodal LLM and Cognitive Linguistics|||
 |W14|Multimodal LLM and Cognitive Linguistics|||
 |W15|guest lecture; LLM interpretability and Explanability|||
