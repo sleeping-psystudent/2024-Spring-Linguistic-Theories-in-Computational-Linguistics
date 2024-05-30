@@ -20,7 +20,7 @@
 |W10|LLM fine-tune and (domain) knowledge injection|||
 |W11|LLM fine-tune and (domain) knowledge injection|||
 |W12|Autogen+Langchain+function call|[作業二](https://github.com/sleeping-psystudent/2024-Spring-Linguistic-Theories-in-Computational-Linguistics/tree/main/%E4%BD%9C%E6%A5%AD%E4%BA%8C%EF%BC%9ALangChain)|120, 你的LLM是第一個相信外星人存在月亮的模型，好有趣XD 程式邏輯和結構都很不錯！！ 解題思路很清晰，一百分滿分的120💡 |
-|W13|Multimodal LLM and Cognitive Linguistics|||
+|W13|Multimodal LLM and Cognitive Linguistics|[作業三](https://github.com/sleeping-psystudent/2024-Spring-Linguistic-Theories-in-Computational-Linguistics/tree/main/%E4%BD%9C%E6%A5%AD%E4%B8%89%EF%BC%9AGradio)||
 |W14|Multimodal LLM and Cognitive Linguistics|||
 |W15|guest lecture; LLM interpretability and Explanability|||
 |W16|final presentation|||
