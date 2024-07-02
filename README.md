@@ -1,4 +1,4 @@
-# 2024-Spring-Linguistic-Theories-in-Computational-Linguistics
+# 2024-Spring-Linguistic-Theories-in-Computational-Linguistics 
 ## 簡介
 * 課程名稱：[計算語言學與語言學理論](https://coursemap.aca.ntu.edu.tw/course_map_all/course.php?code=142+D0200)
 * 授課教師：[謝舒凱](http://ai.robo.ntu.edu.tw/personal.php?id=69) 老師
